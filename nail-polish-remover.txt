@@ -1,0 +1,1 @@
+#key: name|millilitres(m) per unit|quantity(q) needed to get lowest common multiple of 1|price(p) per unit|shipping(s)|overall cost(C) per wash calculated through the formula:C=(qp+s)/(qm) lower is better, lowest common multiple is needed to account for the fact shipping is a fixed value when comparing|url used to purchase/view price
