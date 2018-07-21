@@ -8,3 +8,5 @@ Tide High Efficiency|32|1|£17.99|£0|0.5621875|https://www.ebay.co.uk/itm/Tide-
 Bio-D Non-Bio|13|1|£4.75|£0|0.36538462|https://www.abelandcole.co.uk/non-bio-laundry-liquid-bio-D-1-litre?gclid=Cj0KCQjwvqbaBRCOARIsAD9s1XBL5wW4Gjy60kJizR2ZyLp1jLVG9M6fMbWurzcHRpfVAQuNFSxl4zwaArbkEALw_wcB
 Persil Small & Mighty Bio|60|1|£6.99|£1.99|0.14966667|https://www.hihouse.co.uk/persil-small-mighty-bio-liquid-detergent-2-1l.html?gclid=CjwKCAjw4avaBRBPEiwA_ZetYomFavwI0XdrSh3swkv-CCr25w1HWQv1UkcdAvGzE9UjdqoKXFjxmxoCsaYQAvD_BwE
 Ecover Non-Bio Zero|21|£8.17|£0|0.38904762|https://www.ebay.co.uk/itm/Ecover-Zero-Laundry-Liquid-1-5-Litre-/282929314518?_trksid=p2385738.m4383.l4275.c10 |https://www.ebay.co.uk/itm/Ecover-Zero-Laundry-Liquid-1-5-Litre-/292597026235?_trksid=p2385738.m4383.l4275.c10
+astonish lavendar and ylang|28|1|£1.99|£0|0.071071429|qd(physical)
+astonish lavendar and ylang with 20% discount|28|1|£1.99|£0|0.056785714|qd(physical)
