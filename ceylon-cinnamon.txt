@@ -1,0 +1,3 @@
+#key: brand|quality|kilograms(k) per unit|quantity(q) needed to get lowest common multiple of 1,10|price(p) per unit|shipping(s)|overall cost(C) per kilogram calculated through the formula:C=(qp+s)/(qk) lower is better, lowest common multiple is needed to account for the fact shipping is a fixed value when comparing|url used to purchase/view price
+forest whole foods organic|dust|10|1|£179.97|£0|17.997|https://www.ebay.co.uk/itm/Organic-Cinnamon-Powder-Ceylon-True-125g-250g-500g-1kg-2kg-3kg-5kg/222317060649
+purayou|dust/rough mixed|1|10|£10.99|£0|10.99|https://www.ebay.co.uk/itm/Ceylon-True-Cinnamon-Powder-Premium-Grade-Quality-Cheapest-Per-Gram-on-eBay/272543443857?ssPageName=STRK%3AMEBIDX%3AIT&var=571633677587&_trksid=p2057872.m2749.l2649
