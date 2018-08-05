@@ -1,0 +1,8 @@
+#key: seller/brand|grams(g) per unit|quantity(q) needed to get lowest common multiple of 400,500,2000,25000|price(p) per unit|shipping(s)|overall cost(C) per portion calculated through the formula:C=(qp+s)/(qg) lower is better, lowest common multiple is needed to account for the fact shipping is a fixed value when comparing|url used to purchase/view price
+#healthy-planet4us|2000g|25|£9.20|£0|0.0046|https://www.ebay.co.uk/itm/Himalayan-Pink-Salt-Fine-100-Pure-Naturally-Organic-Healthy-Salt-50g-1kg-2kg-/181925669326?_trksid=p2385738.m4383.l4275.c10&var=481514272338
+#sbateman804|500g|100|£2.09|£q+1|0.0062|https://www.ebay.co.uk/itm/Himalayan-Rose-Pink-Salt-Medium-Coarse-/112305779720?_trksid=p2385738.m4383.l4275.c10&var=412726259526#shpCntId
+#firefly-barbecue|500g|100|£1.99|£0(at least 18)|0.00398|https://www.fireflybbq.eu/products/himalayan-rose-pink-salt-fine-1-2mm?utm_medium=cpc&utm_source=googlepla&gclid=CjwKCAjwwJrbBRAoEiwAGA1B_SCYcoAp7TZEEyl1anXb_Ndzf6chBSJSR27JCQr7cm-QlxrjOzfEeBoCt58QAvD_BwE
+#everything-but-the-sink-uk(fine)|5000g|2|£9.99|£2.99|0.0020578|https://www.ebay.co.uk/itm/Natural-Fine-Grade-Himalayan-Pink-Crystal-Salt-pure-Food-grade-suitable-for-kg-/142035077432?_trksid=p2385738.m4383.l4275.c10&var=441137422351#shpCntId
+#everything-but-the-sink-uk(rough)|5000g|2|£9.99|£2.99|0.0020578|https://www.ebay.co.uk/itm/Natural-coarse-Grade-Himalayan-Pink-Crystal-Salt-pure-Food-grade-suitable-for-kg-/142041964239?_trksid=p2385738.m4383.l4275.c10&var=441142947940
+#himalayan-salt-store|25000g|2|£18.79|£0|0.0007516|https://www.onbuy.com/gb/herbs-spices-and-seasonings/25kg-pink-himalayan-crystal-rock-salt-coarse-food-grade~c7916~p5209956/
+#trs|400g|125|£1.35|£0|0.003375|https://www.theasiancookshop.co.uk/himalayan-pink-salt-2204-p.asp
