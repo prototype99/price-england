@@ -1,2 +1,0 @@
-#key: store|price per unit
-#food warehouse|£2.75
